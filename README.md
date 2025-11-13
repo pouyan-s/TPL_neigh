@@ -1,4 +1,4 @@
-##Toronto Public Lobrary Branches Across Neighborhoods<br>
+## Toronto Public Lobrary Branches Across Neighborhoods<br>
 **Created by Pouyan Shahidi**<br>
 This map displays the locations of Toronto Public Library (TPL) branches overlaid on the city’s official neighborhood boundaries. Each neighborhood is shaded in graduated tones of blue based on the number of TPL branches located inside or up to 1 km from its area. Click on any neighborhood or branch to view detailed information.
 Data Sources
